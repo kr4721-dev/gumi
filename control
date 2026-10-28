@@ -1,0 +1,9 @@
+Package: com.example.mytweak
+Name: MyTweak
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: An awesome jailbreak tweak for iOS 15.
+Maintainer: You
+Author: You
+Section: Tweaks
