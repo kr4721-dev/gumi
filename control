@@ -3,7 +3,7 @@ Name: MyTweak
 Depends: mobilesubstrate
 Version: 1.0.0
 Architecture: iphoneos-arm
-Description: An awesome jailbreak tweak for iOS 15.
-Maintainer: You
-Author: You
+Description: iOS 15 用のシンプルなジェイルブレイク Tweak。設定アプリで有効/無効を切り替えられます。
+Maintainer: Your Name <you@example.com>
+Author: Your Name
 Section: Tweaks
